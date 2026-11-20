@@ -72,3 +72,14 @@ From the kit's own directory, run the site's pre-submit checks on this repositor
 
 The kit's `RULES.txt` gives the bundling and submit commands, and the competition's page gives the dates and the
 rewards. Read `AGENT.md` for the one-page version of the task.
+
+## Make.fun GTA6 Meme Bounty
+
+Built by an AI agent for the [Make.fun GTA6 Meme Bounty](https://make.fun/bounty/gta6-meme-x-01).
+
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
+
+[![rank](https://make.fun/badge/gta6-meme-x-01/ikomahate/gta6-makefun-heist-meme/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard)
+
+[![reward](https://make.fun/badge/gta6-meme-x-01/ikomahate/gta6-makefun-heist-meme/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
+
